@@ -1,0 +1,39 @@
+---
+title: "Research"
+---
+
+```{=html}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 1rem;">
+
+  <div style="background: var(--surface-2, #f9f9f9); border: 0.5px solid #ddd; border-radius: 12px; padding: 1.25rem;">
+    <span style="display: inline-block; font-size: 11px; font-weight: 500; padding: 3px 8px; border-radius: 6px; background: #e8f5e9; color: #2e7d32; margin-bottom: 10px;">Environmental</span>
+    <h3 style="font-size: 14px; font-weight: 500; margin: 0 0 6px; line-height: 1.4;">Resistome of PM2.5 in Medellín</h3>
+    <p style="font-size: 12px; color: #666; margin: 0 0 10px; line-height: 1.5;">AMR gene characterization in urban particulate matter (PM2.5) over 18 months.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="font-size: 11px; color: #999;">Juan E. Vargas.</span>
+      <a href="https://github.com/BiolComp-EscMicroUdeA/airborne-resistome-analysis" style="font-size: 11px; color: #1565c0;">GitHub ↗</a>
+    </div>
+  </div>
+
+  <div style="background: var(--surface-2, #f9f9f9); border: 0.5px solid #ddd; border-radius: 12px; padding: 1.25rem;">
+    <span style="display: inline-block; font-size: 11px; font-weight: 500; padding: 3px 8px; border-radius: 6px; background: #e3f2fd; color: #1565c0; margin-bottom: 10px;">Genomics</span>
+    <h3 style="font-size: 14px; font-weight: 500; margin: 0 0 6px; line-height: 1.4;"><em>S. aureus</em> bovine mastitis in Antioquia</h3>
+    <p style="font-size: 12px; color: #666; margin: 0 0 10px; line-height: 1.5;">Genomic and epidemiological analysis of mastitis-causing <em>S. aureus</em> isolates.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="font-size: 11px; color: #999;">Juan Jose Velasco</span>
+      <a href="https://github.com/BiolComp-EscMicroUdeA/bovine-mastitis-genomics" style="font-size: 11px; color: #1565c0;">GitHub ↗</a>
+    </div>
+  </div>
+
+  <div style="background: var(--surface-2, #f9f9f9); border: 0.5px solid #ddd; border-radius: 12px; padding: 1.25rem;">
+    <span style="display: inline-block; font-size: 11px; font-weight: 500; padding: 3px 8px; border-radius: 6px; background: #ede7f6; color: #4527a0; margin-bottom: 10px;">Host-Pathogen</span>
+    <h3 style="font-size: 14px; font-weight: 500; margin: 0 0 6px; line-height: 1.4;"><em>C. elegans</em> as host-pathogen model</h3>
+    <p style="font-size: 12px; color: #666; margin: 0 0 10px; line-height: 1.5;">Bacteria-host interaction dynamics using <em>C. elegans</em> as model organism.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="font-size: 11px; color: #999;">Juan Anaya</span>
+      <a href="https://github.com/BiolComp-EscMicroUdeA/celegans-host-pathogen-interaction" style="font-size: 11px; color: #1565c0;">GitHub ↗</a>
+    </div>
+  </div>
+
+</div>
+```

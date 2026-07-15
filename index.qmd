@@ -1,0 +1,26 @@
+---
+title: "Computational Biology Research Group"
+subtitle: "School of Microbiology — Universidad de Antioquia, Colombia"
+---
+
+## Welcome
+
+We are a research group focused on computational biology and bioinformatics in the [School of Microbiology](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/microbiologia) at the Universidad de Antioquia.
+Our work aims to understand microbial communities, antimicrobial resistance,
+and host-pathogen interactions through the lens of metagenomics, single-cell and genomic analysis.
+
+## Research Areas
+
+- **Metagenomics and resistome analysis** — characterization of antimicrobial 
+  resistance genes in environmental and clinical samples.
+- **Genomics and molecular epidemiology** — genomic, evolutionary, and 
+  epidemiological characterization of bacterial pathogens.
+- **Host-pathogen interactions** — using model organisms to study 
+  bacteria-host dynamics.
+
+## Latest News
+
+-  New...
+
+
+[Github](https://github.com/BiolComp-EscMicroUdeA)

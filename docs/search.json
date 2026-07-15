@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Yesid Cuesta Astroz\nAssistant Professor in School of Microbiology, Universidad de Antioquia"
+  },
+  {
+    "objectID": "team.html#principal-investigator",
+    "href": "team.html#principal-investigator",
+    "title": "Team",
+    "section": "",
+    "text": "Yesid Cuesta Astroz\nAssistant Professor in School of Microbiology, Universidad de Antioquia"
+  },
+  {
+    "objectID": "team.html#students",
+    "href": "team.html#students",
+    "title": "Team",
+    "section": "Students",
+    "text": "Students\nJuan Esteban Vargas\nUndergraduate Student \njuan.vargasg1@udea.edu.co\nJuan Pablo Anaya\nUndergraduate Student\njuanpablovillademizar@gmail.com\nJuan jose Velasco\nB.Sc\njjose.velasco@udea.edu.co\nNataly\nUndergraduate Student\nemail\nCamilo\nUndergraduate Student\nemail"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Computational Biology Research Group",
+    "section": "",
+    "text": "We are a research group focused on computational biology and bioinformatics in the School of Microbiology at the Universidad de Antioquia. Our work aims to understand microbial communities, antimicrobial resistance, and host-pathogen interactions through the lens of metagenomics, single-cell and genomic analysis."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Computational Biology Research Group",
+    "section": "",
+    "text": "We are a research group focused on computational biology and bioinformatics in the School of Microbiology at the Universidad de Antioquia. Our work aims to understand microbial communities, antimicrobial resistance, and host-pathogen interactions through the lens of metagenomics, single-cell and genomic analysis."
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Computational Biology Research Group",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nMetagenomics and resistome analysis — characterization of antimicrobial resistance genes in environmental and clinical samples.\nGenomics and molecular epidemiology — genomic, evolutionary, and epidemiological characterization of bacterial pathogens.\nHost-pathogen interactions — using model organisms to study bacteria-host dynamics."
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Computational Biology Research Group",
+    "section": "Latest News",
+    "text": "Latest News\n\nNew…\n\nGithub"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Computational Biology Research Group",
+    "section": "",
+    "text": "Contact Information\n\nPI: Yesid Cuesta Astroz\nEmail: yesid.cuesta@udea.edu.co\nOffice: School of Microbiology Building, office 103"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Environmental\n    Resistome of PM2.5 in Medellín\n    AMR gene characterization in urban particulate matter (PM2.5) over 18 months.\n    \n      Juan E. Vargas.\n      GitHub ↗\n    \n  \n\n  \n    Genomics\n    S. aureus bovine mastitis in Antioquia\n    Genomic and epidemiological analysis of mastitis-causing S. aureus isolates.\n    \n      Juan Jose Velasco\n      GitHub ↗\n    \n  \n\n  \n    Host-Pathogen\n    C. elegans as host-pathogen model\n    Bacteria-host interaction dynamics using C. elegans as model organism.\n    \n      Juan Anaya\n      GitHub ↗"
+  }
+]
