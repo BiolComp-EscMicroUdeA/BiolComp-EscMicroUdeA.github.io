@@ -14,6 +14,11 @@ website:
         text: Team
       - href: contact.qmd
         text: Contact
+      - href: publications.qmd
+        text: Publications
+      
+      
+
   page-footer:
     left: "Computational Biology Research Group — School of Microbiology, Universidad de Antioquia"
 
