@@ -14,10 +14,8 @@ title: "Team"
   </div>
 </div>
 ```
- 
 
 ---
-
 
 ## Students
 
@@ -31,19 +29,29 @@ title: "Team"
     <p style="font-size: 12px; color: #666; margin: 4px 0;">juan.vargasg1@udea.edu.co</p>
   </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Pablo Anaya</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">juanpablovillademizar@gmail.com</p>
+  </div>
 
-**Juan Pablo Anaya**  
-*Undergraduate Student*  
-*juanpablovillademizar@gmail.com*
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Jose Velasco</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Master Student</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">jjose.velasco@udea.edu.co</p>
+  </div>
 
-**Juan Jose Velasco**  
-*Master Student*  
-*jjose.velasco@udea.edu.co*
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Nataly</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">email</p>
+  </div>
 
-**Nataly**  
-*Undergraduate Student*  
-*email*
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Camilo</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">email</p>
+  </div>
 
-**Camilo**  
-*Undergraduate Student*  
-*email*
+</div>
+```
