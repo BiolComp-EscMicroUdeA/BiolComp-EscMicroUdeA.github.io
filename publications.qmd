@@ -8,7 +8,7 @@ title: "Publications"
 *Adolfo Rojas-Hidalgo, Raúl Arias-Carrasco, Joyce Karoline Silva, Erick Armingol, Sebastián Urquiza-Zurich, Bruno Vinagre, Cesar A. Prada-Medina, 
 Sergio Triana, Daniela D. Russo, Diego Pérez-Stuardo, Emiliano Vicencio, Gerardo Muñoz, Cristóvão Antunes de Lanna, Leandro Santos, Gabriela Rapozo, 
 Natalia Tavares, Andrés Moreno-Estrada, John Randell, Patricia Severino, Ricardo Khouri, Orr Ashenberg, Alex K. Shalek, Mariana Boroni, 
-Yesid Cuesta-Astroz, Benilton S. Carvalho & Vinicius Maracaja-Coutinho*  
+Yesid Cuesta-Astroz, Benilton S. Carvalho & Vinicius Maracaja-Coutinho* (2026)  
 ***Nature Genetics***
 
 
@@ -16,6 +16,7 @@ Yesid Cuesta-Astroz, Benilton S. Carvalho & Vinicius Maracaja-Coutinho*
 [![](images/portada_publicacion.png){width=300px}](https://www.nature.com/articles/s41588-026-02584-0)
 
 
+---
 
 [`Characterization of the vaginal microbiome and its metabolic potential in Colombian patients with recurrent vulvovaginal candidiasis`](https://academic.oup.com/mmy/article/64/4/myag026/8540286)  
 *Jeiser Marcelo Consuegra-Asprilla, Yesid Cuesta-Astroz, Ángel González* (2026)  
@@ -25,6 +26,8 @@ Yesid Cuesta-Astroz, Benilton S. Carvalho & Vinicius Maracaja-Coutinho*
 
 [![](images/portada_publicacion_medical_mycology.png){width=350px}](https://academic.oup.com/mmy/article/64/4/myag026/8540286)
 
+
+---
 
 
 
