@@ -13,10 +13,9 @@ Yesid Cuesta-Astroz, Benilton S. Carvalho & Vinicius Maracaja-Coutinho
 
 
 ::: {layout-ncol=2}
-[![Portada de Science](images/publicacion_nature.png){width=180px fig-cap: none}](https://www.nature.com/articles/s41588-026-02584-0)
+[![](images/publicacion_nature.png){width=180px}](https://www.nature.com/articles/s41588-026-02584-0)
 
-
-[![Figuras principales](images/publicacion_natue_1.png){width=180px fig-cap: none}](https://www.nature.com/articles/s41588-026-02584-0)
+[![](images/publicacion_natue_1.png){width=180px}](https://www.nature.com/articles/s41588-026-02584-0)
 :::
 
 
