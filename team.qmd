@@ -9,8 +9,8 @@ title: "Team"
   <img src="images/Yesid_Cuesta.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 0.5px solid #ddd;">
   <div>
     <p style="font-size: 16px; font-weight: 500; margin: 0;">Yesid Cuesta Astroz</p>
-    <p style="font-size: 13px; color: #666; margin: 4px 0;">Principal Investigator</p>
-    <p style="font-size: 13px; color: #666; margin: 0;">Computational Biology Research Group · School of Microbiology, Universidad de Antioquia</p>
+    <p style="font-size: 13px; color: #666; margin: 4px 0;">Assistant Professor</p>
+    <p style="font-size: 13px; color: #666; margin: 0;">School of Microbiology - Universidad de Antioquia</p>
   </div>
 </div>
 ```
@@ -21,9 +21,16 @@ title: "Team"
 
 ## Students
 
-**Juan Esteban Vargas**  
-*Undergraduate Student *  
-*juan.vargasg1@udea.edu.co*
+```{=html}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <img src="images/juan_vargas.png" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 0.5px solid #ddd; margin-bottom: 10px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Esteban Vargas</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">juan.vargasg1@udea.edu.co</p>
+  </div>
+
 
 **Juan Pablo Anaya**  
 *Undergraduate Student*  

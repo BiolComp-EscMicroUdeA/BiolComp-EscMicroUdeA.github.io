@@ -4,21 +4,21 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Yesid Cuesta Astroz\n    Principal Investigator\n    Computational Biology Research Group · School of Microbiology, Universidad de Antioquia"
+    "text": "Yesid Cuesta Astroz\n    Assistant Professor\n    School of Microbiology - Universidad de Antioquia"
   },
   {
     "objectID": "team.html#principal-investigator",
     "href": "team.html#principal-investigator",
     "title": "Team",
     "section": "",
-    "text": "Yesid Cuesta Astroz\n    Principal Investigator\n    Computational Biology Research Group · School of Microbiology, Universidad de Antioquia"
+    "text": "Yesid Cuesta Astroz\n    Assistant Professor\n    School of Microbiology - Universidad de Antioquia"
   },
   {
     "objectID": "team.html#students",
     "href": "team.html#students",
     "title": "Team",
     "section": "Students",
-    "text": "Students\nJuan Esteban Vargas\nUndergraduate Student \njuan.vargasg1@udea.edu.co\nJuan Pablo Anaya\nUndergraduate Student\njuanpablovillademizar@gmail.com\nJuan Jose Velasco\nMaster Student\njjose.velasco@udea.edu.co\nNataly\nUndergraduate Student\nemail\nCamilo\nUndergraduate Student\nemail"
+    "text": "Students\n\n\n&lt;img src=\"images/juan_vargas.png\" style=\"width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 0.5px solid #ddd; margin-bottom: 10px;\"&gt;\n&lt;p style=\"font-size: 14px; font-weight: 500; margin: 0;\"&gt;Juan Esteban Vargas&lt;/p&gt;\n&lt;p style=\"font-size: 12px; color: #666; margin: 4px 0;\"&gt;Undergraduate Student&lt;/p&gt;\n&lt;p style=\"font-size: 12px; color: #666; margin: 4px 0;\"&gt;juan.vargasg1@udea.edu.co&lt;/p&gt;\n\nJuan Pablo Anaya\nUndergraduate Student\njuanpablovillademizar@gmail.com\nJuan Jose Velasco\nMaster Student\njjose.velasco@udea.edu.co\nNataly\nUndergraduate Student\nemail\nCamilo\nUndergraduate Student\nemail"
   },
   {
     "objectID": "index.html",
