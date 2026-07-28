@@ -27,30 +27,42 @@ title: "Team"
     <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Esteban Vargas</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">juan.vargasg1@udea.edu.co</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Universidad de Antioquia</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
     <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Pablo Anaya</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">juanpablovillademizar@gmail.com</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Universodad Fransico de Paula Santander</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
     <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Jose Velasco</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">Master Student</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">jjose.velasco@udea.edu.co</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Universidad de Antioquia</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
     <p style="font-size: 14px; font-weight: 500; margin: 0;">Nataly</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">email</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Universidad Nacional de Colombia</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
     <p style="font-size: 14px; font-weight: 500; margin: 0;">Camilo</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">Undergraduate Student</p>
     <p style="font-size: 12px; color: #666; margin: 4px 0;">email</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Universidad de Antioquia</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Julieth Lopez</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Ph.D. Student</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">email</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Universidad Nacional de Colombia</p>
   </div>
 
 </div>
