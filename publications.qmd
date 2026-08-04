@@ -44,7 +44,7 @@ Yesid Cuesta-Astroz, Benilton S. Carvalho & Vinicius Maracaja-Coutinho* (2026)
 *Martin Hemberg, Federico Marini, Shila Ghazanfar, Ahmad Al Ajami, Najla Abassi, Benedict Anchang, Bérénice A Benayoun, Yue Cao, Ken Chen, 
 Yesid Cuesta-Astroz, Zachary DeBruine, Calliope A Dendrou, Iwijn De Vlaminck, Katharina Imkeller, Ilya Korsunsky, Alex R Lederer, Jessica Jingyi Li, 
 Pieter Meysman, Clint L Miller, Kerry A Mullan, Uwe Ohler, Pratibha Panwar, Nikolaos Patikas, Jonas Schuck, Jacqueline HY Siu, Timothy J Triche Jr, 
-Alex Tsankov, Sander W van der Laan, Masanao Yajima, Jean Yang, Fabio Zanini, Ivana Jelic* (2026)  
+Alex Tsankov, Sander W van der Laan, Masanao Yajima, Jean Yang, Fabio Zanini, Ivana Jelic* (2025)  
 ***Genome Biology***
 
 
@@ -56,7 +56,7 @@ Alex Tsankov, Sander W van der Laan, Masanao Yajima, Jean Yang, Fabio Zanini, Iv
 
 [`Exploring Latin America one cell at a time`](https://www.cell.com/cell/abstract/S0092-8674(25)01081-5)
 *Patricia A. Possik ∙ David J. Adams ∙ Flavia C. Aguiar ∙ Tamires Caixeta Alves ∙ Fabíola S. Alves-Hanna ∙
- Carlos Mario Restrepo Arboleda ∙ Erick Armingol ∙ Liã Bárbara Arruda ∙ Yesid Cuesta Astroz ∙ Jacqueline M. Boccacino ∙ Danielle C. Bonfim ∙ Juan F. Calderon ∙ Alexis Germán Murillo Carrasco ∙ Danielle G. Carvalho ∙ Benilton S. Carvalho13 ∙ Paulo Vinícius Sanches Daltro de Carvalho ∙ Alex Castro ∙ Lia Chappell ∙ Ricardo Chinchilla-Monge ∙ Daniela Di Bella ∙ Sandra Martha Gomes Dias ∙ Rafaela Fagundes ∙ Marina L. Fernández ∙ Bianca Braga Frade ∙ Federico J. Garde ∙ Hugo Gonzalez ∙ Gabriela Rapozo Guimarães ∙ Lucas Inchausti ∙ Edith Kordon ∙ Laura Leaden ∙ Rafael S. Lima ∙ Alvaro Lladser ∙ Julieth López-Castiblanco ∙ Isabela Malta ∙ Vinicius Maracaja-Coutinho ∙ Domenica Marchese ∙ Alice Matimba ∙ Andres Moreno-Estrada ∙ Marcelo A. Mori ∙ Helder Nakaya ∙ Silvana Pereyra ∙ Yulye Jessica Romo Ramos ∙ Natalia Rego ∙ Carla Daniela Robles-Espinoza ∙ Adolfo Rojas-Hidalgo ∙ Maria Natalia Rubinsztain ∙ Leandro Santos ∙ Anita Scoones ∙ Patricia Severino ∙ Annie Cristhine M. Sousa-Squiavinato ∙ Lucia Spangenberg ∙ Ana Victoria Suescún ∙ Nayara Gusmão Tessarollo ∙ Martha Estefania Vázquez-Cruz ∙ Ma’n H. Zawati ∙ Joao P.B. Viola ∙ Mariana Boron* (2026)  
+ Carlos Mario Restrepo Arboleda ∙ Erick Armingol ∙ Liã Bárbara Arruda ∙ Yesid Cuesta Astroz ∙ Jacqueline M. Boccacino ∙ Danielle C. Bonfim ∙ Juan F. Calderon ∙ Alexis Germán Murillo Carrasco ∙ Danielle G. Carvalho ∙ Benilton S. Carvalho13 ∙ Paulo Vinícius Sanches Daltro de Carvalho ∙ Alex Castro ∙ Lia Chappell ∙ Ricardo Chinchilla-Monge ∙ Daniela Di Bella ∙ Sandra Martha Gomes Dias ∙ Rafaela Fagundes ∙ Marina L. Fernández ∙ Bianca Braga Frade ∙ Federico J. Garde ∙ Hugo Gonzalez ∙ Gabriela Rapozo Guimarães ∙ Lucas Inchausti ∙ Edith Kordon ∙ Laura Leaden ∙ Rafael S. Lima ∙ Alvaro Lladser ∙ Julieth López-Castiblanco ∙ Isabela Malta ∙ Vinicius Maracaja-Coutinho ∙ Domenica Marchese ∙ Alice Matimba ∙ Andres Moreno-Estrada ∙ Marcelo A. Mori ∙ Helder Nakaya ∙ Silvana Pereyra ∙ Yulye Jessica Romo Ramos ∙ Natalia Rego ∙ Carla Daniela Robles-Espinoza ∙ Adolfo Rojas-Hidalgo ∙ Maria Natalia Rubinsztain ∙ Leandro Santos ∙ Anita Scoones ∙ Patricia Severino ∙ Annie Cristhine M. Sousa-Squiavinato ∙ Lucia Spangenberg ∙ Ana Victoria Suescún ∙ Nayara Gusmão Tessarollo ∙ Martha Estefania Vázquez-Cruz ∙ Ma’n H. Zawati ∙ Joao P.B. Viola ∙ Mariana Boron* (2025)  
 ***Genome Biology***
 
 
@@ -75,5 +75,5 @@ Alex Tsankov, Sander W van der Laan, Masanao Yajima, Jean Yang, Fabio Zanini, Iv
 *Paola A Rios Agudelo, Julián Reyes Vélez, Martha Olivera Angel, Adam M Blanchard, Yesid Cuesta Astroz, Arley Caraballo Guzmán, Giovanny Torres Lindarte* (2025)  
 ***Antibiotics***
 3. [`AlphaFold2 and AlphaFold3 leads to significantly different results in human-parasite interaction prediction`](https://www.biorxiv.org/content/10.1101/2024.09.19.613643v3.abstract)
-*Burcu Ozden, Buse Şahin, Ezgi Karaca* (2025)  
+*Burcu Ozden, Buse Şahin, Ezgi Karaca* (2024)  
 ***bioRxiv***
