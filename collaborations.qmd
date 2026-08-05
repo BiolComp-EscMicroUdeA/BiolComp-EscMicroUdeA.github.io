@@ -1,0 +1,72 @@
+---
+title: "Collaborators"
+---
+
+```{=html}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 1rem;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Alberto Santos Delgado</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Biotechnology Research Institute for the Green Transition (BRIGHT) · DTU</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇩🇰 Denmark</p>
+    <a href="https://orbit.dtu.dk/en/persons/alberto-santos-delgado/" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Gosia Trynka</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Science Director at Open Targets · Wellcome Sanger Institute</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇬🇧 United Kingdom</p>
+    <a href="https://www.sanger.ac.uk/person/trynka-gosia/" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Juan Gabriel Piñeros Jiménez</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Grupo Salud y Ambiente · Facultad Nacional de Salud Pública · UdeA</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇨🇴 Colombia</p>
+    <a href="https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/areas-investigacion/inicio-fichas/fichas/facultad-nacional-salud-publica/grupo-de-investigacion-salud-y-ambiente" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Alejandra Medina</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Principal Investigator · Regulatory Genomics and Bioinformatics Lab · UNAM</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇲🇽 Mexico</p>
+    <a href="https://liigh.unam.mx/amedina/" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Pablo Romagnoli</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Investigador · CIMETSA · IUCBC</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇦🇷 Argentina</p>
+    <a href="https://bicyt.conicet.gov.ar/fichas/p/pablo-alberto-romagnoli" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Marcela Sjoberg</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Facultad de Ciencias Biológicas · Pontificia Universidad Católica de Chile</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇨🇱 Chile</p>
+    <a href="https://biologia.uc.cl/sjoberg-marcela/" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Alberto Martín</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Profesor Asociado · Facultad de Ingeniería · Universidad San Sebastián</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇨🇱 Chile</p>
+    <a href="https://researchers.uss.cl/es/persons/alberto-jes%C3%BAs-mart%C3%ADn-mart%C3%ADn/" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Benilton de Sá Carvalho</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Professor Associado · IMECC · Universidade Estadual de Campinas (Unicamp)</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇧🇷 Brazil</p>
+    <a href="https://portal.dados.unicamp.br/perfil?origem=&docente=309039&sigla_unidade=&nome_unidade=&nome_programa=" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1.25rem; background: #f9f9f9; border: 0.5px solid #ddd; border-radius: 12px;">
+    <p style="font-size: 14px; font-weight: 500; margin: 0;">Liliana López Kleine</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">Profesora Titular · Facultad de Ciencias · Universidad Nacional de Colombia</p>
+    <p style="font-size: 12px; color: #666; margin: 4px 0;">🇨🇴 Colombia</p>
+    <a href="https://ciencias.bogota.unal.edu.co/docente/liliana-lopez-kleine/" style="font-size: 12px; color: #1565c0; margin-top: 6px;">Profile ↗</a>
+  </div>
+
+</div>
+```
